@@ -1,5 +1,7 @@
 # discord-bot
 
+This program is a bot for playing music in voice channels on the popular social media and communication platform Discord. The bot will search your music request on YouTube and start playing the top result.
+
 How to set up the bot:
 
 1. Create a Discord account if necessary and be in a server where you have administrator permissions
